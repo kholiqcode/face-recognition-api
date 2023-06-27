@@ -9,3 +9,8 @@ pip install -r requirements.txt
 ```
 make run
 ```
+
+## Testing
+1. Open Browser
+2. Acesss domain.com/docs
+3. Upload photo
